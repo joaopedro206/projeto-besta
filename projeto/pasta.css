@@ -5,14 +5,60 @@
 
 
 
-
+body{
+    background-color: rgb(255, 255, 0);
+    margin: 0%;
+    
+}
 
 header{
+    background-color: rgb(109, 109, 235);
+    
 
+}
+.h1-ga{
+    text-align: center;
+    margin: 0%;
 }
 
 main{
+    background-color: aqua;
+   
+    
+}
+.secundario{
+    margin: auto;
+    max-width: 1000px;
+    min-width: 300px;
+    padding: 10px 20px 20px 20px;
+    
+    
 
+    
+}
+.formato{
+    
+    width: 100%;
+    
+    
+    
+    
+   
+    
+
+}
+.tamanho{
+    width: 500px;
+    height: 700px;
+}
+.tamanho{
+    
+    width: 100%;
+   
+   
+
+    
+    
 }
 
 footer{
